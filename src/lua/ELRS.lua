@@ -6,6 +6,7 @@
   Lua script for radios X7, X9, X-lite and Horus with openTx 2.2 or higher
 
   Original author: AlessandroAU + Cruwaller
+  lameanndboard edit
 ]] --
 local commitSha = '??????'
 local shaLUT = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'}
